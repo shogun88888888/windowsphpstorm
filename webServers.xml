@@ -1,0 +1,68 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b213fdc9-eff4-4645-9f0f-0e588c0de64f" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d7f5551e-9858-4301-8e7d-4cbfec7c3967" name="palazzodibocce.com" url="http://palazzodibocce.com">
+        <fileTransfer host="palazzodibocce.com" port="22" rootFolder="/home/palaz8/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a4cd10e8-fc54-476d-9b26-c519d2fb5d8d" name="palazzoleagues.com" url="http://palazzoleagues.com">
+        <fileTransfer host="palazzoleagues.com" port="22" rootFolder="/home/palaz9" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a68a2a6f-5ba9-4ae0-9a63-cd4c799c1572" name="eatitalianplaybocce public" url="http://eatitalianplaybocce.com">
+        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cacbf305-f56b-4492-8fe9-ea9429856560" name="homestead" url="http://homestead.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="123f85ea-b99c-42a7-9223-1429b01799d2" name="performancezone1.com public" url="http://96.94.147.158">
+        <fileTransfer host="96.94.147.158" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dab341ef-4681-42fc-82ba-b9540f337aef" name="performancezone1.com private" url="http://192.168.100.191">
+        <fileTransfer host="192.168.100.191" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3b9c726c-575d-4594-917f-7089a389b9d3" name="thomashospitality.com" url="http://thomashospitality.com">
+        <fileTransfer host="thomashospitality.com" port="22" rootFolder="/home/content/13/9544313" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c4affbf8-1a38-4784-b635-59e3d2ce61ca" name="eatitalianplaybocce private" url="http://192.168.100.190">
+        <fileTransfer host="192.168.100.190" port="22" rootFolder="/home/palaz7/web/eatitalianplaybocce.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

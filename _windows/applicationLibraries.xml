@@ -1,0 +1,67 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.1.3_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.1.3_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="modernizr" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Modernizr" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_modernizr.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_modernizr.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://www.modernizr.com/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="prefixfree" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_prefixfree.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_prefixfree.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="respond" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_respond.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.palazzodibocce.com_js_respond.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vue_2.0.1_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vue_2.0.1_vue.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

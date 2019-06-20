@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '.../public_html/menu/wine/index.html - [palazzodibocce.com]'" />
+    <option name="defaultScopeName" value="File '.../public_html/menu/wine/index.html - [palazzodibocce.com]'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../public_html/menu/wine/index.html - [palazzodibocce.com]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.html</mask>
+      <mask>*.css</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

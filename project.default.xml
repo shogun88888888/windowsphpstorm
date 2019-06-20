@@ -1,0 +1,111 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Behat">
+        <behat_settings>
+          <BehatSettings />
+        </behat_settings>
+      </component>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="ComposerSettings">
+        <pharConfigPath>$USER_HOME$/Dropbox/Websites/palazzodibocce/composer.json</pharConfigPath>
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="GitSharedSettings">
+        <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+          <list />
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path />
+        <config-path />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings load_method="CUSTOM_LOADER" />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Mac PHP 7.1" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="jeffreyloll" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="javascript.nodejs.core.library.configured.version" value="6.4.0" />
+        <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="last_opened_file_path" value="/usr/local/Cellar/php71/7.1.0-rc.5_9/bin/php" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Dropbox/Web Files/PHPStorm/Dictionaries" Dictionaries="0" />
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2825" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
