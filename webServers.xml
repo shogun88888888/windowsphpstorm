@@ -31,16 +31,8 @@
       <webServer id="cacbf305-f56b-4492-8fe9-ea9429856560" name="homestead" url="http://homestead.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="123f85ea-b99c-42a7-9223-1429b01799d2" name="performancezone1.com public" url="http://96.94.147.158">
-        <fileTransfer host="96.94.147.158" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="dab341ef-4681-42fc-82ba-b9540f337aef" name="performancezone1.com private" url="http://192.168.100.191">
-        <fileTransfer host="192.168.100.191" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
+      <webServer id="123f85ea-b99c-42a7-9223-1429b01799d2" name="performancezone1.com" url="http://performancezone1.com">
+        <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
