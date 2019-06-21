@@ -32,7 +32,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="123f85ea-b99c-42a7-9223-1429b01799d2" name="performancezone1.com" url="http://performancezone1.com">
-        <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/palaz7/web/testsite1" accessType="SFTP">
+        <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/performancezone1" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
