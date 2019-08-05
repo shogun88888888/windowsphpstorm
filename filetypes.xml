@@ -7,7 +7,6 @@
       <mapping pattern="json5" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern="which" type="JavaScript" />
-      <mapping pattern="not-in-install" type="JavaScript" />
       <mapping pattern="mkdirp" type="JavaScript" />
       <mapping pattern="uglifyjs" type="JavaScript" />
       <mapping pattern="semver" type="JavaScript" />
@@ -23,14 +22,13 @@
       <mapping pattern="marked" type="JavaScript" />
       <mapping pattern="in-install" type="JavaScript" />
       <mapping pattern="errno" type="JavaScript" />
+      <mapping pattern="mime" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
       <mapping pattern="in-publish" type="JavaScript" />
       <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="image-size" type="JavaScript" />
-      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="node-sass" type="JavaScript" />
       <mapping pattern="cleancss" type="JavaScript" />
-      <mapping pattern="mime" type="JavaScript" />
       <mapping pattern="sassgraph" type="JavaScript" />
       <mapping pattern="browserslist" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
@@ -39,14 +37,16 @@
       <mapping pattern="dateformat" type="JavaScript" />
       <mapping pattern="babylon" type="JavaScript" />
       <mapping pattern="user-home" type="JavaScript" />
+      <mapping pattern="not-in-install" type="JavaScript" />
       <mapping pattern="node-gyp" type="JavaScript" />
       <mapping pattern="strip-indent" type="JavaScript" />
+      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern=".env-backup" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
