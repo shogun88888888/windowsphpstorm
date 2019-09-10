@@ -9,14 +9,14 @@
       <mapping pattern="sshpk-sign" type="JavaScript" />
       <mapping pattern="notify" type="JavaScript" />
       <mapping pattern="uuid" type="JavaScript" />
-      <mapping pattern="strip-indent" type="JavaScript" />
+      <mapping pattern="image-size" type="JavaScript" />
       <mapping pattern="rimraf" type="JavaScript" />
       <mapping pattern="not-in-publish" type="JavaScript" />
       <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="browserslist" type="JavaScript" />
       <mapping pattern="cleancss" type="JavaScript" />
       <mapping pattern="marked" type="JavaScript" />
-      <mapping pattern="har-validator" type="JavaScript" />
+      <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="esvalidate" type="JavaScript" />
       <mapping pattern="user-home" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
@@ -31,7 +31,7 @@
       <mapping pattern="semver" type="JavaScript" />
       <mapping pattern="lessc" type="JavaScript" />
       <mapping pattern="detect-indent" type="JavaScript" />
-      <mapping pattern="image-size" type="JavaScript" />
+      <mapping pattern="har-validator" type="JavaScript" />
       <mapping pattern="babylon" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
       <mapping pattern="mime" type="JavaScript" />
