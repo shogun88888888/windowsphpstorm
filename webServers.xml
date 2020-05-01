@@ -5,11 +5,11 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="d7f5551e-9858-4301-8e7d-4cbfec7c3967" name="palazzodibocce.com" url="http://palazzodibocce.com">
-        <fileTransfer host="palazzodibocce.com" port="22" rootFolder="/home/palaz8/" accessType="SFTP">
+        <fileTransfer host="palazzodibocce.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="a4cd10e8-fc54-476d-9b26-c519d2fb5d8d" name="palazzoleagues.com" url="http://palazzoleagues.com">
