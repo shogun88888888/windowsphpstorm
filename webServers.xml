@@ -2,49 +2,44 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b213fdc9-eff4-4645-9f0f-0e588c0de64f" name="localhost" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="d7f5551e-9858-4301-8e7d-4cbfec7c3967" name="palazzodibocce.com" url="http://palazzodibocce.com">
-        <fileTransfer host="palazzodibocce.com" port="21">
+        <fileTransfer rootFolder="/home/palaz8" accessType="SFTP" host="palazzodibocce.com" port="22" sshConfigId="6b7fb36a-cbcb-4626-be31-e153c69b02f5" sshConfig="palazzodibocce.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="a4cd10e8-fc54-476d-9b26-c519d2fb5d8d" name="palazzoleagues.com" url="http://palazzoleagues.com">
-        <fileTransfer host="palazzoleagues.com" port="22" rootFolder="/home/palaz9" accessType="SFTP">
+        <fileTransfer rootFolder="/home/palaz9" accessType="SFTP" host="palazzoleagues.com" port="22" sshConfigId="d728bcef-c962-4951-a3ef-c5da66a850e9" sshConfig="palazzoleagues.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="a68a2a6f-5ba9-4ae0-9a63-cd4c799c1572" name="eatitalianplaybocce" url="http://eatitalianplaybocce.com">
-        <fileTransfer host="eatitalianplaybocce.com" port="22" rootFolder="/var/www/eatitalianplaybocce" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/eatitalianplaybocce" accessType="SFTP" host="eatitalianplaybocce.com" port="22" sshConfigId="b0dc2ec1-13b7-4581-9d87-9c1d4c7f2c7f" sshConfig="eatitalianplaybocce">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="cacbf305-f56b-4492-8fe9-ea9429856560" name="homestead" url="http://homestead.app">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="123f85ea-b99c-42a7-9223-1429b01799d2" name="performancezone1.com" url="http://performancezone1.com">
-        <fileTransfer host="performancezone1.com" port="22" rootFolder="/home/performancezone1" accessType="SFTP">
+        <fileTransfer rootFolder="/home/performancezone1" accessType="SFTP" host="performancezone1.com" port="22" sshConfigId="cb1f2bed-8ba0-42d7-ba6b-74fa3cde08a2" sshConfig="performancezone1.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="3b9c726c-575d-4594-917f-7089a389b9d3" name="thomashospitality.com" url="http://thomashospitality.com">
-        <fileTransfer host="thomashospitality.com" port="22" rootFolder="/home/content/13/9544313" accessType="SFTP">
+        <fileTransfer rootFolder="/home/content/13/9544313" accessType="SFTP" host="thomashospitality.com" port="22" sshConfigId="b0a3f8be-d4a7-42d7-bcf6-fad9b6623798" sshConfig="thomashospitality.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

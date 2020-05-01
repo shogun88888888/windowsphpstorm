@@ -1,0 +1,11 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="palazzoleagues.com" id="d728bcef-c962-4951-a3ef-c5da66a850e9" port="22" customName="palazzoleagues.com" nameFormat="CUSTOM" username="palaz9" />
+      <sshConfig authType="PASSWORD" host="eatitalianplaybocce.com" id="b0dc2ec1-13b7-4581-9d87-9c1d4c7f2c7f" port="22" customName="eatitalianplaybocce" nameFormat="CUSTOM" username="palaz7" />
+      <sshConfig authType="PASSWORD" host="performancezone1.com" id="cb1f2bed-8ba0-42d7-ba6b-74fa3cde08a2" port="22" customName="performancezone1.com" nameFormat="CUSTOM" username="performancezone1" />
+      <sshConfig authType="PASSWORD" host="thomashospitality.com" id="b0a3f8be-d4a7-42d7-bcf6-fad9b6623798" port="22" customName="thomashospitality.com" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="palazzodibocce.com" id="6b7fb36a-cbcb-4626-be31-e153c69b02f5" port="22" customName="palazzodibocce.com" nameFormat="CUSTOM" username="palaz8" />
+    </configs>
+  </component>
+</application>
