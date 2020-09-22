@@ -32,12 +32,12 @@
       <mapping pattern="detect-indent" type="JavaScript" />
       <mapping pattern="strip-indent" type="JavaScript" />
       <mapping pattern="esparse" type="JavaScript" />
+      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="mime" type="JavaScript" />
       <mapping pattern="cdl" type="JavaScript" />
       <mapping pattern="sshpk-verify" type="JavaScript" />
       <mapping pattern="in-install" type="JavaScript" />
       <mapping pattern="esvalidate" type="JavaScript" />
-      <mapping pattern="nopt" type="JavaScript" />
       <mapping pattern="uglifyjs" type="JavaScript" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
